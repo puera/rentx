@@ -1,0 +1,13 @@
+node_modules
+tmp/*
+!tmp/avatar
+!tmp/cars
+!tmp/.gitkeep
+tmp/avatar/*
+tmp/cars/*
+!tmp/avatar/.gitkeep
+!tmp/cars/.gitkeep
+.env
+coverage
+ormconfig.json
+dist
